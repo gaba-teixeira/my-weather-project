@@ -1,3 +1,6 @@
-h1 {
-  color: red;
+body {
+  background-color: #f9f7fe;
+  font-family: "Edu TAS Beginner", cursive;
+  font-family: "Roboto", sans-serif;
+  font-family: "Roboto Mono", monospace;
 }
